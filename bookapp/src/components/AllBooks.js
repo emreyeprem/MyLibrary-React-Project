@@ -92,6 +92,7 @@ class AllBooks extends Component {
          <button onClick={() => this.edit(each.id)} className="btn btn-warning buttons">Edit</button>
          </div>
        </div>
+
      </div>
     })
     return (

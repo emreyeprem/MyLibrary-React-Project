@@ -44,7 +44,7 @@ class BaseLayout extends Component {
 
     return (
 
-      <div>
+      <div className="mainContainer">
           <Header />
               {this.props.children}
           <Footer/>
