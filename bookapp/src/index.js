@@ -15,6 +15,7 @@ import { createStore } from 'redux'
 import reducer from './store/reducer'
 import { Provider } from 'react-redux'
 import history from './history';
+import Search from './components/Search'
 
 let store = createStore(reducer,window.__REDUX_DEVTOOLS_EXTENSION__ && window.__REDUX_DEVTOOLS_EXTENSION__())
 
@@ -26,6 +27,7 @@ ReactDOM.render(
 
     <Switch>
       <Route exact path="/" component={AllBooks} />
+      <Route path="/search" component={Search}/>
       <Route path="/login" component={Login}/>
       <Route path="/register" component={Register}/>
       <Route path="/add-book" component={AddBook} />
