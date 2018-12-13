@@ -21,6 +21,6 @@
 PostgreSQL
 
 ## Featured programs: 
-This project was built using React.js, Redux.js, JavaScript, Node.js, Express.js, HTML and CSS.
+This project was built using React.js, Redux.js, JavaScript, Node.js, Express.js, HTML and CSS
 
     
