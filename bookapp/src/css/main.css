@@ -400,6 +400,11 @@ iframe {
   .wrap-login100 {
     padding: 100px 15px 33px 15px;
   }
+  .addButton{
+  /* position:absolute; */
+  /* margin:70px; */
+  margin-bottom: 150px
+  }
 }
 
 

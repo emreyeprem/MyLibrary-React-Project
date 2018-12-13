@@ -100,12 +100,9 @@ class AllBooks extends Component {
 
       <div>
       <div className="maindiv">
-       {books}
-
+       {books} <br/>
+      <button onClick={this.addBookButton} className="addButton btn btn-warning">Add Book</button>
       </div>
-
-    <button onClick={this.addBookButton} className="addButton btn btn-warning">Add Book</button>
-
       </div>
 
     )
