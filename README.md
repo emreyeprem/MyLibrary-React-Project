@@ -1,5 +1,5 @@
 
-# :memo: :newspaper: :memo: :newspaper: MyLibrary-React-Project :memo: :newspaper: :memo: :newspaper:
+# :book: :book: :book: MyLibrary-React-Project :book: :book: :book:
 * **Purpose of the app:** 
    This app was created to help users to organize and keep track of their books libraries in an online and permanent platform.
 * **How to use:**
